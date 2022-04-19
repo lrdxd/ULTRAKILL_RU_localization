@@ -1,3 +1,6 @@
+
+# The project was frozen due to the possible blocking of the account by Github. Search for us on Codeberg
+
 # ULTRAKILL_RU_localization
 Скачать последний набор текстовых фалов можно в Realeses
 ## Как установить перевод
